@@ -42,7 +42,7 @@ We release all the resources to foster future research of reliable multi-modal p
   </p>
 
   <a href="">
-    <img src="asset/data_construction.png" alt="Logo" width="80%">
+    <img src="asset/data_construction.png" alt="Logo" width="100%">
   </a>
 <br>
 
@@ -52,7 +52,9 @@ We release all the resources to foster future research of reliable multi-modal p
 ## 💡 Highlights
 - 🔥 **Multi-modal, Multi-discipline, and Multi-difficulty**: Our benchmark comprises 2,400 test cases and 50,118 step-level labels, spanning mathematics, physics, chemistry, and biology, with diverse difficulty levels and multi-modal content.
 - 🔥 **Fine-grained Error Analysis**: We define seven error types that encompass common mistakes models may make in long reasoning chains. Each step is meticulously annotated by human experts for correctness, error type, and explanation, enabling a systematic evaluation of process judges' capabilities to detect, classify, and diagnose errors in scientific problem-solving tasks.
-- - 🔥 **Realistic and Diverse Error Patterns**: To ensure real-world applicability, we collect solutions from 10 distinct MLLMs of varying sizes, architectures, and design goals, reflecting a broad spectrum of realistic reasoning behaviors and error patterns.
+- 🔥 **Realistic and Diverse Error Patterns**: To ensure real-world applicability, we collect solutions from 10 distinct MLLMs of varying sizes, architectures, and design goals, reflecting a broad spectrum of realistic reasoning behaviors and error patterns.
+
+Codes and Dataset will be coming soon!
 
 ## ✒️Citation
 ```
