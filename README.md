@@ -24,7 +24,7 @@
     <strong>Kaipeng Zhang</strong>
   </p>
   <p align="center">
-  📖<a href="https://arxiv.org/abs/">Paper</a> |🏠<a href="https://github.com/jiaxin-ai/ProJudge">Homepage</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudgeBench">ProJudgeBench</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudge-173k">ProJudge-173k</a></h3>
+  📖<a href="https://arxiv.org/abs/2503.06553">Paper</a> |🏠<a href="https://github.com/jiaxin-ai/ProJudge">Homepage</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudgeBench">ProJudgeBench</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudge-173k">ProJudge-173k</a></h3>
   </p>
 <div align="center"></div>
 <p align="center">
