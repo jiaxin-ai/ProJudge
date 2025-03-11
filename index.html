@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>ProJudge</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://kit.fontawesome.com/f8ddf9854a.js" crossorigin="anonymous"></script>
+    <meta charset="utf-8">
+    <meta name="description"
+          content="A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges">
+    <meta name="keywords" content="ProJudge, MLLM, MLLM Reasoning, MLLM Evaluation, MLLM-as-a-Judge, Instruction-Tuning, AI, AGI">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges</title>
+
+    <link rel="icon" href="./static/images/logo.png">
+
+    <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro" rel="stylesheet">
+
+    <link rel="stylesheet" href="./static/css/bulma.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-carousel.min.css">
+    <link rel="stylesheet" href="./static/css/bulma-slider.min.css">
+    <link rel="stylesheet" href="./static/css/fontawesome.all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+    <link rel="stylesheet" href="./static/css/index.css">
+    <script src="https://kit.fontawesome.com/fff5b27ec1.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script defer src="./static/js/fontawesome.all.min.js"></script>
+    <script src="./static/js/bulma-carousel.min.js"></script>
+    <script src="./static/js/bulma-slider.min.js"></script>
+    <script src="./static/js/index.js"></script>
+  </head>
+  <body>
+
+    <section class="hero">
+      <div class="hero-body">
+        <div class="container is-max-desktop">
+          <div class="columns is-centered">
+            <div class="column has-text-centered">
+              <h1 class="title is-1 publication-title is-bold">
+                <img src="static/images/logo.png" style="width:1.5em;vertical-align: middle" alt="Logo"/>
+                <span class="mmmu" style="vertical-align: middle">ProJudge</span>
+              </h1>
+              <h2 class="subtitle is-3 publication-subtitle">
+                A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges
+              </h2>
+              <div class="is-size-5 publication-authors">
+                <span class="author-block">Jiaxin Ai,</span>
+                <span class="author-block">Pengfei Zhou,</span>
+                <span class="author-block">Zhaopan Xu,</span>
+                <span class="author-block">Ming Li,</span>
+                <span class="author-block">Fanrui Zhang,</span>
+                <span class="author-block">Zizhen Li,</span>
+                <span class="author-block">Jianwen Sun,</span>
+                <br>
+                <span class="author-block">Yukang Feng,</span>
+                <span class="author-block">Baojin Huang,</span>
+                <span class="author-block">Zhongyuan Wang†,</span>
+                <span class="author-block">Kaipeng Zhang†</span>
+              </div>
+
+              <br>
+              <div class="is-size-5 publication-authors">
+<!--                <span class="author-block">*Equal Contribution</span><br>-->
+                <span class="author-block">†Corresponding Author:</span>
+                <span class="author-block"><a href="mailto:zhangkaipeng@pjlab.org.cn">zhangkaipeng@pjlab.org.cn</a></span>
+              </div>
+
+              <div class="column has-text-centered">
+                <div class="publication-links">
+                  <span class="link-block">
+                    <a href="https://arxiv.org/abs/2503.06553" class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fas fa-file-pdf"></i>
+                      </span>
+                      <span>arXiv</span>
+                    </a>
+                  </span>
+                  <span class="link-block">
+                    <a href="https://github.com/jiaxin-ai/ProJudge" class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon">
+                        <i class="fab fa-github"></i>
+                      </span>
+                      <span>Code</span>
+                    </a>
+                  </span>
+                  <span class="link-block">
+                    <a href="https://huggingface.co/datasets/julyai/ProJudgeBench" class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon" style="font-size:18px">🤗</span>
+                      <span>ProJudgeBench</span>
+                    </a>
+                  </span>
+                  <span class="link-block">
+                    <a href="https://huggingface.co/datasets/julyai/ProJudge-173k" class="external-link button is-normal is-rounded is-dark">
+                      <span class="icon" style="font-size:18px">🤗</span>
+                      <span>ProJudge-173k</span>
+                    </a>
+                  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="hero teaser">
+      <div class="container is-max-desktop has-text-centered">
+        <img src="static/images/data_construction.png" alt="data_construction">
+        <br>
+        <p align="center" style="font-size:18px">
+          🌈 we introduce <strong>ProJudgeBench</strong>, a comprehensive benchmark for assessing MLLMs' capabilities as process judges, and <strong>ProJudge-173k</strong>, a large-scale instruction-tuning dataset designed to enhance open-source MLLMs' process evaluation abilities.
+        </p>
+              </div>
+    </section>
+
+    <section class="section">
+      <div class="container" style="margin-bottom: 2vh;">
+        <!-- Abstract. -->
+        <div class="columns is-centered has-text-centered">
+          <div class="column is-four-fifths">
+            <h2 class="title is-3">🔔News</h2>
+            <div class="content has-text-justified">
+              <p>
+                <b>✨[03/11/2025] We release our paper and project page. The data and codes will be openly available soon!</b>
+              </p>
+          </div>
+          </div>
+        </div>
+    </div>
+    </section>
+
+    
+    <section class="section" id="BibTeX">
+      <div class="container is-max-desktop content">
+        <h2 class="title is-3 has-text-centered">BibTeX</h2>
+        <pre><code>
+@article{ai2025projudge,
+  title={ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges},
+  author={Jiaxin Ai and Pengfei Zhou and Zhaopan Xu and Ming Li and Fanrui Zhang and Zizhen Li and Jianwen Sun and Yukang Feng and Baojin Huang and Zhongyuan Wang and Kaipeng Zhang},
+  journal={arXiv preprint arXiv:2503.06553},
+  year={2025}
+}
+    </code></pre>
+      </div>
+    </section>
+
+    <footer class="footer">
+      <div class="columns is-centered">
+        <div class="column is-8">
+          <div class="content">
+            <p>
+              This website is website adapted from <a href="https://mmt-bench.github.io/#examples">MMT-Bench</a>, <a href="https://mmmu-benchmark.github.io/">MMMU</a>, <a href="https://nerfies.github.io/">Nerfies</a> and <a href="https://mathvista.github.io/">MathVista</a>, licensed under a <a rel="license"
+                                                  href="http://creativecommons.org/licenses/by-sa/4.0/">Creative
+              Commons Attribution-ShareAlike 4.0 International License</a>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </footer>
+
+  </body>
+</html>
