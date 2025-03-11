@@ -58,6 +58,12 @@ Codes and Dataset will be coming soon!
 
 ## ✒️Citation
 ```
+@article{ai2025projudge,
+  title={ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges},
+  author={Jiaxin Ai and Pengfei Zhou and Zhaopan Xu and Ming Li and Fanrui Zhang and Zizhen Li and Jianwen Sun and Yukang Feng and Baojin Huang and Zhongyuan Wang and Kaipeng Zhang},
+  journal={arXiv preprint arXiv:2503.06553},
+  year={2025}
+}
 ```
 
 ## 📄 License
