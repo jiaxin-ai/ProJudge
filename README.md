@@ -47,6 +47,7 @@ We release all the resources to foster future research of reliable multi-modal p
 <br>
 
 ## 📢 News
+- 🚀 [20/10/2025] Our paper is accepted by ICCV2025!
 - ✨ [03/11/2025] We release our paper and project page.
 
 ## 💡 Highlights
@@ -58,11 +59,13 @@ Codes and Dataset will be coming soon!
 
 ## ✒️Citation
 ```
-@article{ai2025projudge,
-  title={ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges},
-  author={Jiaxin Ai and Pengfei Zhou and Zhaopan Xu and Ming Li and Fanrui Zhang and Zizhen Li and Jianwen Sun and Yukang Feng and Baojin Huang and Zhongyuan Wang and Kaipeng Zhang},
-  journal={arXiv preprint arXiv:2503.06553},
-  year={2025}
+@InProceedings{Ai_2025_ICCV,
+    author    = {Ai, Jiaxin and Zhou, Pengfei and Xu, Zhaopan and Li, Ming and Zhang, Fanrui and Li, Zizhen and Sun, Jianwen and Feng, Yukang and Huang, Baojin and Wang, Zhongyuan and Zhang, Kaipeng},
+    title     = {ProJudge: A Multi-Modal Multi-Discipline Benchmark and Instruction-Tuning Dataset for MLLM-based Process Judges},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {4681-4690}
 }
 ```
 
