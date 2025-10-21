@@ -24,7 +24,7 @@
     <strong>Kaipeng Zhang</strong>
   </p>
   <p align="center">
-  📖<a href="https://arxiv.org/abs/2503.06553">Paper</a> |🏠<a href="https://projudge.github.io">Homepage</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudgeBench">ProJudgeBench</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudge-173k">ProJudge-173k</a></h3>
+  📖<a href="https://openaccess.thecvf.com/content/ICCV2025/papers/Ai_ProJudge_A_Multi-Modal_Multi-Discipline_Benchmark_and_Instruction-Tuning_Dataset_for_MLLM-based_ICCV_2025_paper.pdf">Paper</a> |🏠<a href="https://projudge.github.io">Homepage</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudgeBench">ProJudgeBench</a></h3>|🤗<a href="https://huggingface.co/datasets/julyai/ProJudge-173k">ProJudge-173k</a></h3>
   </p>
 <div align="center"></div>
 <p align="center">
